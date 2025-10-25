@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Like watching anime and reading manga, and currently investing time into Linux/Windows development.</p>
+<p align="left">Currently investing time into frontend/backend web development.</p>
 
 ###
 
